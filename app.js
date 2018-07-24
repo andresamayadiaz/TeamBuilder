@@ -10,10 +10,13 @@ let students  = ["Abelardo V.", "Adolfo C.", "Alejandro G.", "Antonio G.",
     "Gabriela M.", "Gustavo C.", "Hugo V.", "Israel M.", "Javier A.", "Javier L.", 
     "Jorge D.", "Juventino A.", "Laura B.", "Mario R.", "Patricio M.", "Raquel M.", 
     "Rodolfo R.", "Samuel M.", "Ulises S.", "Verónica V.", "William B."];
+
 // How many array shuffles
-let shuffles = 3;
+let shuffles = 4;
+
 // Students shuffled array
 let students_shuffle;
+
 // Students teams array
 let students_teams;
 
