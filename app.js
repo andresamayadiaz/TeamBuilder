@@ -5,7 +5,11 @@
  */
 
 // Students array
-let students  = ["Abelardo V.", "Adolfo C.", "Alejandro G.", "Antonio G.", "Carlos M.", "Sergio T.", "Diana P.", "Edgar S.", "Elias J.", "Elizabeth J.", "Gabriela M.", "Gustavo C.", "Hugo V.", "Israel M.", "Javier A.", "Javier L.", "Jorge D.", "Juventino A.", "Laura B.", "Mario R.", "Patricio M.", "Raquel M.", "Rodolfo R.", "Samuel M.", "Ulises S.", "Verónica V.", "William B."];
+let students  = ["Abelardo V.", "Adolfo C.", "Alejandro G.", "Antonio G.", 
+    "Carlos M.", "Sergio T.", "Diana P.", "Edgar S.", "Elias J.", "Elizabeth J.", 
+    "Gabriela M.", "Gustavo C.", "Hugo V.", "Israel M.", "Javier A.", "Javier L.", 
+    "Jorge D.", "Juventino A.", "Laura B.", "Mario R.", "Patricio M.", "Raquel M.", 
+    "Rodolfo R.", "Samuel M.", "Ulises S.", "Verónica V.", "William B."];
 // How many array shuffles
 let shuffles = 3;
 // Students shuffled array
@@ -40,7 +44,8 @@ console.log(students_teams);
 console.log("---------------------------------------");
 
 // Function to shuffle the students array 
-function shuffle(array) {
+function shuffle(array) 
+{
     let counter = array.length;
  
     // While there are elements in the array
@@ -58,4 +63,4 @@ function shuffle(array) {
     }
  
     return array;
- }
+}
