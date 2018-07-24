@@ -8,7 +8,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint **/*.js --quiet",
+    "fix": "eslint --fix .",
+    "test": "npm run lint"
   },
   "repository": {
     "type": "git",
