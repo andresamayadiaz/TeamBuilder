@@ -4,6 +4,7 @@
  * Project #2
  */
 
+
 // Students array
 let students  = ["Abelardo V.", "Adolfo C.", "Alejandro G.", "Antonio G.", 
     "Carlos M.", "Sergio T.", "Diana P.", "Edgar S.", "Elias J.", "Elizabeth J.", 
@@ -11,8 +12,9 @@ let students  = ["Abelardo V.", "Adolfo C.", "Alejandro G.", "Antonio G.",
     "Jorge D.", "Juventino A.", "Laura B.", "Mario R.", "Patricio M.", "Raquel M.", 
     "Rodolfo R.", "Samuel M.", "Ulises S.", "Verónica V.", "William B."];
 
+    
 // How many array shuffles
-let shuffles = 4;
+let shuffles = 7;
 
 // Students shuffled array
 let students_shuffle;
