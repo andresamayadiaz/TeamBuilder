@@ -7,7 +7,7 @@
 
 // Students array
 let students  = ["Abelardo V.", "Adolfo C.", "Alejandro G.", "Antonio G.", 
-"Carlos M.", "Sergio T.", "Diana P.", "Edgar S.", "Elias J.", "Elizabeth J.", 
+    "Carlos M.", "Sergio T.", "Diana P.", "Edgar S.", "Elias J.", "Elizabeth J.", 
     "Gabriela M.", "Gustavo C.", "Hugo V.", "Israel M.", "Javier A.", "Javier L.", 
     "Jorge D.", "Juventino A.", "Laura B.", "Mario R.", "Patricio M.", "Raquel M.", 
     "Rodolfo R.", "Samuel M.", "Ulises S.", "Verónica V.", "William B."];
