@@ -27,7 +27,7 @@ console.log("Students Count: " + students.length);
 // Shuffle the students array
 for(i=1; i<= shuffles; i++){
     students_shuffle = shuffle(students);console.log("TEST #"+i+" RESULT: ");   
-console.log(students_shuffle);
+    console.log(students_shuffle);
 }
 console.log("---------------------------------------");
 console.log("FINAL SHUFFLE ARRAY");
