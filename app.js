@@ -4,7 +4,6 @@
  * Project #2
  */
 
-
 // Students array
 let students  = ["Abelardo V.", "Adolfo C.", "Alejandro G.", "Antonio G.", 
     "Carlos M.", "Sergio T.", "Diana P.", "Edgar S.", "Elias J.", "Elizabeth J.", 
